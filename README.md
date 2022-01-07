@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainAmjad68&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ZainAmjad68/ZainAmjad68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
