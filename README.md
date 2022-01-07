@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainAmjad68&hide=stars&count_private=true&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAmjad68&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ZainAmjad68/ZainAmjad68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
