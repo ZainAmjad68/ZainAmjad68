@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainAmjad68&hide=stars&count_private=true&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAmjad68&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+I'm Zain and I'm currently working as an Associate Software Engineer.
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,6 +73,7 @@ EJS                      2 repos             ██░░░░░░░░░�
 
 ![Chart not found](https://raw.githubusercontent.com/ZainAmjad68/ZainAmjad68/main/charts/bar_graph.png) 
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
  Last Updated on 07/01/2022
 <!--END_SECTION:waka-->
