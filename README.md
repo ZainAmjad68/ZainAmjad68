@@ -9,7 +9,7 @@ I'm Zain and I'm currently working as an Associate Software Engineer.
 
 **🐱 My GitHub Data** 
 
-> 🏆 91 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 33.3 kB Used in GitHub's Storage 
  > 
@@ -81,7 +81,7 @@ EJS                      3 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 31/01/2022 18:41:47 UTC
+ Last Updated on 01/02/2022 18:43:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
