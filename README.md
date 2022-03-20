@@ -3,6 +3,8 @@
 I'm Zain and I'm currently working as an Associate Software Engineer.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2011%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -80,7 +82,7 @@ EJS                      3 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 20/03/2022 03:34:27 UTC
+ Last Updated on 20/03/2022 18:43:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
