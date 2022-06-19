@@ -1,7 +1,7 @@
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working as a Software Engineer at Caremerge
+- 🌱 I’m currently learning Cloud Native Tech and DevOps 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -39,6 +39,11 @@ GitHub Stats:medal_sports:
 ---
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainAmjad68&theme=dark&show_icons=true&hide=stars)
+
+Daily Joke:smile_cat:
+---
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
 
 Playing Now:headphones:
 ---
