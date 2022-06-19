@@ -16,6 +16,8 @@
 - ⚡ Fun fact: My Hair's grayer than your Grandpa probably (it's a genetic thing xD)<br>
 </p>
 
+<br>
+
 [1]: https://www.instagram.com/za1namjad/
 [2]: https://www.linkedin.com/in/zain-amjad-74743518b/
 [3]: https://www.facebook.com/zainamjad1998/
@@ -43,12 +45,14 @@ Connect With Me:handshake:
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][3]
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][4]
 ---
+<br>
 
 GitHub Stats:medal_sports:
 ---
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainAmjad68&theme=dark&show_icons=true&hide=stars)
-
+<br>
+<br>
 
 Daily Joke:smile_cat:
 ---
