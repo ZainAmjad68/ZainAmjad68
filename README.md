@@ -17,7 +17,7 @@
 </p>
 
 [1]: https://www.instagram.com/za1namjad/
-[2]: [https://www.linkedin.com/in/nomi-vos-097aa082](https://www.linkedin.com/in/zain-amjad-74743518b/)
+[2]: https://www.linkedin.com/in/zain-amjad-74743518b/
 [3]: https://www.facebook.com/zainamjad1998/
 [4]: https://twitter.com/za1namjad
 
