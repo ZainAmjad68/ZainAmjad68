@@ -10,6 +10,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="center">
-[![Spotify Listens](https://spotify-github-profile.vercel.app/api/view?uid=313seo4wtvjs3q5lmwwd2pdt5d2y&cover_image=true&theme=default&bar_color=416840&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313seo4wtvjs3q5lmwwd2pdt5d2y&redirect=true)
-</p>
+[![:headphones:Spotify Playing](https://spotify-github-profile.vercel.app/api/view?uid=313seo4wtvjs3q5lmwwd2pdt5d2y&cover_image=true&theme=default&bar_color=416840&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313seo4wtvjs3q5lmwwd2pdt5d2y&redirect=true)
