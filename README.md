@@ -1,11 +1,20 @@
+<h3 align="center">
+  Welcome to Zain Amjad's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+at+Caremerge;1.5%2B%20years%20of%20Professional%20Experience;Interested%20in%20Web+Dev%20and+DevOps;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
-- 🔭 I’m currently working as a Software Engineer at Caremerge
-- 🌱 I’m currently learning Cloud Native Tech and DevOps 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+<p align="center">
+- 🔭 Currently working as a Software Engineer at Caremerge<br>
+- 🌱 Using JavaScript and AWS to implement cloud-driven Solutions<br>
+- 🤔 Learning Cloud Native Tech and DevOps<br>
+- 👯 Looking to collaborate on Open Source Social Projects<br>
+- 💬 Ask me about Backend and Cloud<br>
+- ⚡ Fun fact: My Hair's grayer than your Grandpa probably (it's a genetic thing xD)<br>
+</p>
 
 [1]: https://www.instagram.com/za1namjad/
 [2]: [https://www.linkedin.com/in/nomi-vos-097aa082](https://www.linkedin.com/in/zain-amjad-74743518b/)
@@ -40,9 +49,9 @@ GitHub Stats:medal_sports:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainAmjad68&theme=dark&show_icons=true&hide=stars)
 
+
 Daily Joke:smile_cat:
 ---
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
 
 Playing Now:headphones:
