@@ -9,6 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainAmjad68&theme=dark&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainAmjad68&theme=dark&show_icons=true&hide=stars)
 
 [![:headphones:Spotify Playing](https://spotify-github-profile.vercel.app/api/view?uid=313seo4wtvjs3q5lmwwd2pdt5d2y&cover_image=true&theme=default&bar_color=416840&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313seo4wtvjs3q5lmwwd2pdt5d2y&redirect=true)
