@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+at+Caremerge;1.5%2B%20years%20of%20Professional%20Experience;Interested%20in%20Web+Dev%20and+DevOps;Always%20Learning%20New%20Tech%20Stuff&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+at+CareMerge;2%2B%20years%20of%20Professional%20Experience;Interested%20in%20Web+Dev%20and+DevOps;Always%20Learning%20New%20Tech%20Stuff&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <p align="center">
@@ -28,6 +28,7 @@ Tech Stack:man_technologist:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
