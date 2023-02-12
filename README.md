@@ -63,3 +63,8 @@ Playing Now:headphones:
 ---
 
 [![:headphones:Spotify Playing](https://spotify-github-profile.vercel.app/api/view?uid=313seo4wtvjs3q5lmwwd2pdt5d2y&cover_image=true&theme=default&bar_color=416840&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313seo4wtvjs3q5lmwwd2pdt5d2y&redirect=true)
+
+Latest Blog Post:scroll:
+---
+
+[![Blog Posts](https://github-readme-medium.vercel.app/?username=zainamjad&limit=2&bg=121212)](https://medium.com/@zainamjad)
