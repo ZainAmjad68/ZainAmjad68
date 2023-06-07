@@ -51,7 +51,7 @@ Connect With Me:handshake:
 GitHub Stats:medal_sports:
 ---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainAmjad68&theme=dark&show_icons=true&hide=stars&include_all_commits=true&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainAmjad68&theme=dark&show_icons=true&hide=stars&include_all_commits=true&count_private=true&hide_rank=true)
 <br>
 <br>
 
