@@ -9,7 +9,7 @@
 
 <p align="center">
 - 🔭 Currently working as a Software Engineer at Caremerge<br>
-- 🌱 Using JavaScript and AWS to implement cloud-driven Solutions<br>
+- 🌱 Using JavaScript and AWS to implement Cloud-driven Solutions<br>
 - 🤔 Learning Cloud Native Tech and DevOps<br>
 - 👯 Looking to collaborate on Open Source Social Projects<br>
 - 💬 Ask me about Backend and Cloud<br>
