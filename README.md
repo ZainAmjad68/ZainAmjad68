@@ -53,15 +53,14 @@ GitHub Stats:medal_sports:
 
 <!--- Older One that worked (was showing 0 commits for some reason) 
 https://github-readme-stats.vercel.app/api?username=ZainAmjad68&theme=dark&show_icons=true&hide=stars&include_all_commits=true&count_private=true&hide_rank=true -->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainAmjad68&theme=dark&show_icons=true&hide=stars&hide_rank=true
-)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainAmjad68&theme=dark&show_icons=true&hide=stars&hide_rank=true)
 <br>
 <br>
 
 Latest Blog Post:scroll:
 ---
 
-[![Blog Posts](https://github-readme-medium.vercel.app/?username=zainamjad&limit=2&bg=121212)](https://medium.com/@zainamjad)
+[![Blog Posts](https://github-readme-medium.vercel.app/?username=zainamjad&limit=1&bg=121212)](https://medium.com/@zainamjad)
 
 Daily Joke:smile_cat:
 ---
