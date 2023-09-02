@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+at+CareMerge;2%2B%20years%20of%20Professional%20Experience;Interested%20in%20Web+Dev%20and+DevOps;Always%20Learning%20New%20Tech%20Stuff&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+at+CareMerge;3%2B+years+of+Professional+Experience;Interested+in+Web+Dev+and+DevOps;Always+Learning+New+Tech+Stuff&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ GitHub Stats:medal_sports:
 <!--- Older One that worked (was showing 0 commits for some reason)
 https://github-readme-stats-sigma-five.vercel.app/api?username=ZainAmjad68&theme=dark&show_icons=true&hide=stars&hide_rank=true -->
 <!-- need to remove -sigma-five from this when the https://github.com/anuraghazra/github-readme-stats/issues/3177#issuecomment-1699333042 issue gets fixed -->
-![My GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ZainAmjad68&theme=dark&show_icons=true&hide=stars&include_all_commits=true&count_private=true&hide_rank=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainAmjad68&theme=dark&show_icons=true&hide=stars&include_all_commits=true&count_private=true&hide_rank=true)
 <br>
 <br>
 
