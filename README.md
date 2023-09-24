@@ -13,7 +13,7 @@
 - 🤔 Learning Cloud Native Tech and DevOps<br>
 - 👯 Looking to collaborate on Open Source Social Projects<br>
 - 💬 Ask me about Backend and Cloud<br>
-- ⚡ Fun fact: My Hair's grayer than your Grandpa probably (it's a genetic thing xD)<br>
+- ⚡ Fun fact: My Hair's grayer than your Grandpa probably (it's a genetic thing XD)<br>
 </p>
 
 <br>
