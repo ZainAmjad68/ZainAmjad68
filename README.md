@@ -18,10 +18,10 @@
 
 <br>
 
-[1]: https://www.instagram.com/za1namjad/
-[2]: https://www.linkedin.com/in/zain-amjad-74743518b/
+[1]: https://www.linkedin.com/in/zain-amjad/
+[2]: https://twitter.com/za1namjad
 [3]: https://www.facebook.com/zainamjad1998/
-[4]: https://twitter.com/za1namjad
+[4]: https://www.instagram.com/za1namjad/
 
 Tech Stack:man_technologist:
 ---
@@ -41,10 +41,11 @@ Tech Stack:man_technologist:
 Connect With Me:handshake:
 ---
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2]
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][1]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][2]
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][3]
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][4]
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][4]
+
 ---
 <br>
 
