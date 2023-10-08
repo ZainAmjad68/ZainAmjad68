@@ -37,6 +37,7 @@ Tech Stack:man_technologist:
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 ---
+<br>
 
 Connect With Me:handshake:
 ---
@@ -45,7 +46,6 @@ Connect With Me:handshake:
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][2]
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][3]
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][4]
-
 ---
 <br>
 
@@ -64,6 +64,7 @@ Latest Blog Post:scroll:
 ---
 
 [![Blog Posts](https://github-readme-medium.vercel.app/?username=zainamjad&limit=1&bg=121212)](https://medium.com/@zainamjad)
+<br>
 
 Daily Joke:smile_cat:
 ---
