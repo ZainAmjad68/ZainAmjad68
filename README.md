@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+at+CareMerge;3%2B+years+of+Professional+Experience;Interested+in+Web+Dev+and+DevOps;Always+Learning+New+Tech+Stuff&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+at+CareMerge;3%2B+years+of+Professional+Experience;Passionate+About+Web+Dev+and+DevOps;Always+Learning+New+Tech+Stuff&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <p align="center">
