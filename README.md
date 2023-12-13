@@ -23,7 +23,7 @@
 [3]: https://www.facebook.com/zainamjad1998/
 [4]: https://www.instagram.com/za1namjad/
 
-Tech Stack:man_technologist:
+Tech Stack :man_technologist:
 ---
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -44,7 +44,7 @@ Tech Stack:man_technologist:
 ---
 <br>
 
-Connect With Me:handshake:
+Connect With Me :handshake:
 ---
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
@@ -54,7 +54,7 @@ Connect With Me:handshake:
 ---
 <br>
 
-GitHub Stats:medal_sports:
+GitHub Stats :medal_sports:
 ---
 
 <!--- Older One that worked (was showing 0 commits for some reason)
@@ -65,17 +65,17 @@ https://github-readme-stats-sigma-five.vercel.app/api?username=ZainAmjad68&theme
 <br>
 <br>
 
-Latest Blog Post:scroll:
+Latest Blog Post :scroll:
 ---
 
 [![Blog Posts](https://github-readme-medium.vercel.app/?username=zainamjad&limit=1&bg=121212)](https://medium.com/@zainamjad)
 <br>
 
-Daily Joke:smile_cat:
+Daily Joke :smile_cat:
 ---
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
 
-Playing Now:headphones:
+Playing Now :headphones:
 ---
 
 [![:headphones:Spotify Playing](https://spotify-github-profile.vercel.app/api/view?uid=313seo4wtvjs3q5lmwwd2pdt5d2y&cover_image=true&theme=default&bar_color=416840&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313seo4wtvjs3q5lmwwd2pdt5d2y&redirect=true)
