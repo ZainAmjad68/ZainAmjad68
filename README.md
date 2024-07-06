@@ -78,4 +78,4 @@ Daily Joke :smile_cat:
 Playing Now :headphones:
 ---
 
-[![:headphones:Spotify Playing](https://spotify-github-profile.vercel.app/api/view?uid=313seo4wtvjs3q5lmwwd2pdt5d2y&cover_image=true&theme=default&bar_color=416840&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313seo4wtvjs3q5lmwwd2pdt5d2y&redirect=true)
+[![:headphones:Spotify Playing](https://spotify-github-profile.kittinanx.com/api/view?uid=313seo4wtvjs3q5lmwwd2pdt5d2y&cover_image=true&theme=default&bar_color=416840&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313seo4wtvjs3q5lmwwd2pdt5d2y&redirect=true)
