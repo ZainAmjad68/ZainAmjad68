@@ -68,7 +68,7 @@ https://github-readme-stats-sigma-five.vercel.app/api?username=ZainAmjad68&theme
 Latest Blog Post :scroll:
 ---
 
-[![Blog Posts](https://github-readme-medium.vercel.app/?username=zainamjad&limit=1&bg=121212)](https://medium.com/@zainamjad)
+[![Blog Posts](https://github-readme-medium-recent-article.vercel.app/medium/@zainamjad/0)](https://medium.com/@zainamjad)
 <br>
 
 Daily Joke :smile_cat:
